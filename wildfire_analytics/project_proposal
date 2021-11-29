@@ -1,0 +1,37 @@
+Wildfire Analytics - Julie Bougard and Nicholas Parkes 
+
+Data Source 
+1.88 Million US Wildfires - information on 1.88 million wildfires taken from 1992-2015 Kaggle - 759MB 
+Taken from the dataset description: “The following core data elements were required for records  to be included in this data publication: discovery date, final fire size, and a point location at least  as precise as Public Land Survey System (PLSS) section (1-square mile grid).” 
+
+Project Plan 
+Exploratory Data Analysis 
+• Have wildfires become more common/disastrous? 
+• What counties are the most/least fire-prone? 
+
+Working Motivating Questions 
+• Can we predict the cause of a wildfire given its size, location and date? 
+• Can we predict the amount of time it takes for a fire to be extinguished after detection? 
+• Can we predict the location and severity of the next wildfire? 
+• Given a location, can we assess the risk of a wildfire occurring in order to better price  insurance policies on that property? 
+• Has climate change (rising C02 levels) actually caused an increase in wildfires? 
+
+Considered Models (very much a work in progress) 
+• PCA 
+• Decision Trees 
+• Neural Nets 
+
+Why this Project? 
+Wildfires occur every year in California and can destroy peoples’ lives. Developing a tool to  predict fires could help people prepare in advance and choose where to buy property. This tool  could also be used by insurance companies to propose a smarter insurance package for property.  In addition, social media often claims climate change is the sole cause of the increase in wildfires  and this project could allow us to evaluate these claims.
+
+Anticipated Challenges 
+• This is a huge dataset. We will need to think big in our algorithm and analysis design.
+• Inferring causation vs correlation (particularly in the link to climate change) 
+• Deciding between model types and their efficacy 
+• We may simply be unable to answer some of these questions with the data that we have.  If we run into this problem, we may look to bring in external data sources or reorient our  analysis.
+
+
+Running list of links and notes
+
+1.88 Million US Wildfires
+Dataset
